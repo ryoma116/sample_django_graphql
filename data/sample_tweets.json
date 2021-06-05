@@ -1,0 +1,10 @@
+[
+	{
+		"model": "tweet.Tweet",
+		"pk": 1,
+		"fields": {
+			"text": "テスト１２３",
+			"account_id": 1
+		}
+	}
+]

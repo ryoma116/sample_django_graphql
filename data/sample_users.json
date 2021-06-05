@@ -1,0 +1,26 @@
+[
+	{
+		"model": "account.Account",
+		"pk": 1,
+		"fields": {
+			"name": "ホゲ1",
+			"username": "hoge1"
+		}
+	},
+	{
+		"model": "account.Account",
+		"pk": 2,
+		"fields": {
+			"name": "ホゲ2",
+			"username": "hoge2"
+		}
+	},
+	{
+		"model": "account.Account",
+		"pk": 3,
+		"fields": {
+			"name": "ホゲ3",
+			"username": "hoge3"
+		}
+	}
+]
