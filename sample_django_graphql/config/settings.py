@@ -41,7 +41,6 @@ INSTALLED_APPS = [
 
 INSTALLED_APPS += [
     "graphene_django",
-    "items",
     "tweet.apps.TweetConfig",
     "account.apps.AccountConfig",
 ]

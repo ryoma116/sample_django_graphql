@@ -1,6 +1,5 @@
-from django.db import models
-
 from account.models import Account
+from django.db import models
 
 
 class Tweet(models.Model):
